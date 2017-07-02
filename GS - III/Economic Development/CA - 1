@@ -1,0 +1,14 @@
+### GST
+	# Against the way of GST implementation (by P.Chidambram)-
+		POSITIVE SIDE OF GST:-
+			a. One tax subsume maby taxes
+			b. Captures nearly all transcations above certain limit
+			c. Eleminates cascading effect at various level of value chain
+			d. Enlarge tax base
+		DESIGN FLAWS OF GST:-
+			a. GST should have one standard rate (with cocessional rate and demrit rate) but we have several slabs
+			b. GST implemented as diarchy but needs to be a unified ax
+			c. Number of tar return filings by a merchant is way too high. eg, Per state of trade around 37 times per year.
+			d. GST should have eleminated classification dispute, but it didn't.
+			e. GST should reduce the discretion of tax administrator but it didn't.
+			f. No trial run period. (atleast 2 months must have been given for transational duration)    
